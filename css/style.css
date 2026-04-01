@@ -1,12 +1,12 @@
 /* COmentário em css */
 
 
-*/ p,h2,section,article,footer,nav,header,body,div{
+p,h2,section,article,footer,nav,header,body,div{
     color : red;
     font-size: 20px;
     font-weight: bold ;
     text-align: center;
-} */
+}
 
 
 
